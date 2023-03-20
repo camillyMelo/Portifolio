@@ -1,3 +1,3 @@
 Portifólio Cami
 
-Feito com HTLM e CSS.
+Website feito com HTLM e CSS.
